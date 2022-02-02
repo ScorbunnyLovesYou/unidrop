@@ -1,0 +1,38 @@
+{
+  "TOKEN": "",
+  "default_prefix": ">",
+  "owner": ["662600079332474880", "936975540684984350"],
+  "topgg": "",
+  "ksoftapi": "",
+  "DB": "mongodb+srv://user:YaAjyu26KaPt9pi1@cluster0.hmwwh.mongodb.net/Public2?retryWrites=true&w=majority",
+  "DB_NAME": "mongodb+srv://user:YaAjyu26KaPt9pi1@cluster0.hmwwh.mongodb.net/Public2?retryWrites=true&w=majority",
+  "log": "934135380058472448",
+  "spotifyID": "bf5ee2a72bae40ffadc71a47280e5ff9",
+  "spotifySecret": "053469ffeb3844079fab734ebf3090c2",
+  "colors": {
+    "error": "ff0000",
+    "success": "#71ff00",
+    "main": "#fff500"
+  },
+  "emojis": {
+    "success": "<:yyes:934187147328639047>",
+    "error": "<:xwrong:934187147349614623>",
+    "helpEmo": "<a:purple:936319223783915701>",
+    "fluteMusic": "<a:music_1:936319225054756874>",
+    "filters": "<a:dance:934186782289981481>",
+    "premium": "<a:Premium:937324441820626994>",
+    "enabled": "<a:yes_1:936319225935581204>",
+    "disabled": "<a:error:936319224614367293>"
+  },
+  "nodes": [
+    
+    {
+      "host": "lavalink-repl.parasop.repl.co",
+      "port": 443,
+      "password": "youshallnotpass",
+      "youtube search": true,
+      "secure": true
+    }
+    
+  ]
+}
